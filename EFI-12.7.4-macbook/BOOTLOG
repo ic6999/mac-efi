@@ -1,0 +1,111 @@
+SlingShot: Starting Local and Network Diags/Recovery Session at 07/03/2025  10:29.
+SlingShotL8LocalBootSetup: Didnt find a recovery partition for startup disk, startup disk may not be set, (Not Found)
+Memory test starting
+Memory test took 3657 ms
+Drive test starting
+Drive test took 1330 ms
+Wireless_AccessPointChosen(): secure network picking 1306
+NetworkFinishOSRSHostInfoLookup: Resolved OSRS Hostname [osrecovery.apple.com] to 17.57.21.52, Port 80
+GetStationAddressViaIpAgent: Client IP Address: 192.168.3.28
+GetStationAddressViaIpAgent: Client Subnet Mask: 255.255.255.0
+GetStationAddressViaIpAgent: Router IP Address: 192.168.3.1
+GetStationAddressViaIpAgent: DnsServer 0 Address: 192.168.3.1
+NetworkFinishOSRSHostInfoLookup: Resolved DNS Address on interface with address 192.168.3.28
+NetworkFinishOSRSHostInfoLookup: Got 1 Network Interfaces.
+NetworkFinishOSRSHostInfoLookup: Handle 0 was used for successful DNS resolution of OSRS.
+SlingShot: Got OSRS Info: Hostname osrecovery.apple.com, Host IP 17.57.21.52, Port: 80
+HttpFetchWorker: Initing Network, Host = 17.57.21.52, Port = 80...
+HttpGetMoreData: Non Zero status 8000000000000068 returned from Receive Response, time = 0ms.
+HttpGetMoreData: Connection Closed from the other side.
+SlingShotSetupAuthParams: Got MLB SN 'C021486016PDY4WA2'
+SlingShotGetRecoveryType: Error getting RecoveryType (Not Found),
+HttpFetchWorker: Initing Network, Host = 17.57.21.52, Port = 80...
+NetworkResolveDomainName: Resolved IP Address for 'oscdn.apple.com': 112.48.230.139
+HttpFetchWorker: Initing Network, Host = 112.48.230.139, Port = 80...
+NetworkResolveDomainName: Resolved IP Address for 'oscdn.apple.com': 112.48.230.139
+HttpFetchWorker: Initing Network, Host = 112.48.230.139, Port = 80...
+DetermineForwardDownloadProgress: Download Stalled! Offset = 111, Bytes = 0, Tick = 0
+SlingShotUpdateProgressUI: Recent download rate 0 dropped below 5 KBps, starting download stall timer.
+SlingShotUpdateProgressUI: 30 sec avg 0 KBps, 12 KBps new total, last total 0 KBps, now 6 KBps
+DetermineForwardDownloadProgress: Download Stalled! Offset = 112, Bytes = 0, Tick = 0
+SlingShotUpdateProgressUI: Recent download rate 40 is above minimum 5 KBps, cancelling download stall timer.
+SlingShotUpdateProgressUI: 30 sec avg 401 KBps, 3077 KBps new total, last total 2835 KBps, now 2956 KBps
+SlingShotUpdateProgressUI: 30 sec avg 762 KBps, 3457 KBps new total, last total 3404 KBps, now 3430 KBps
+SlingShotUpdateProgressUI: 30 sec avg 1022 KBps, 3481 KBps new total, last total 3460 KBps, now 3470 KBps
+SlingShotUpdateProgressUI: 30 sec avg 1266 KBps, 3575 KBps new total, last total 3564 KBps, now 3569 KBps
+SlingShotUpdateProgressUI: 30 sec avg 1477 KBps, 3643 KBps new total, last total 3635 KBps, now 3639 KBps
+SlingShotUpdateProgressUI: 30 sec avg 3783 KBps, 3636 KBps new total, last total 3623 KBps, now 3629 KBps
+>>>>>>: [0:02] to go, Remaining in Sec = 97, Hours = 0, Minutes = 2, Bytes Left = 360876501
+SlingShotUpdateProgressUI: 30 sec avg 3791 KBps, 3675 KBps new total, last total 3665 KBps, now 3670 KBps
+>>>>>>: [0:02] to go, Remaining in Sec = 91, Hours = 0, Minutes = 2, Bytes Left = 342370014
+SlingShotUpdateProgressUI: 30 sec avg 3822 KBps, 3692 KBps new total, last total 3683 KBps, now 3687 KBps
+>>>>>>: [0:02] to go, Remaining in Sec = 84, Hours = 0, Minutes = 2, Bytes Left = 319236905
+SlingShotUpdateProgressUI: 30 sec avg 3750 KBps, 3653 KBps new total, last total 3656 KBps, now 3654 KBps
+>>>>>>: [0:02] to go, Remaining in Sec = 80, Hours = 0, Minutes = 2, Bytes Left = 300730417
+SlingShotUpdateProgressUI: 30 sec avg 3607 KBps, 3594 KBps new total, last total 3589 KBps, now 3591 KBps
+>>>>>>: [0:02] to go, Remaining in Sec = 79, Hours = 0, Minutes = 2, Bytes Left = 291477174
+SlingShotUpdateProgressUI: 30 sec avg 3526 KBps, 3572 KBps new total, last total 3570 KBps, now 3571 KBps
+>>>>>>: [0:02] to go, Remaining in Sec = 73, Hours = 0, Minutes = 2, Bytes Left = 268344065
+SlingShotUpdateProgressUI: 30 sec avg 3547 KBps, 3590 KBps new total, last total 3589 KBps, now 3589 KBps
+>>>>>>: [0:02] to go, Remaining in Sec = 67, Hours = 0, Minutes = 2, Bytes Left = 249837578
+SlingShotUpdateProgressUI: 30 sec avg 3508 KBps, 3595 KBps new total, last total 3594 KBps, now 3594 KBps
+>>>>>>: [0:02] to go, Remaining in Sec = 65, Hours = 0, Minutes = 2, Bytes Left = 240584334
+SlingShotUpdateProgressUI: 30 sec avg 3559 KBps, 3603 KBps new total, last total 3597 KBps, now 3600 KBps
+>>>>>>: [0:01] to go, Remaining in Sec = 58, Hours = 0, Minutes = 1, Bytes Left = 217451225
+SlingShotUpdateProgressUI: 30 sec avg 3658 KBps, 3632 KBps new total, last total 3625 KBps, now 3628 KBps
+>>>>>>: [0:01] to go, Remaining in Sec = 53, Hours = 0, Minutes = 1, Bytes Left = 198944738
+SlingShotUpdateProgressUI: 30 sec avg 3708 KBps, 3623 KBps new total, last total 3616 KBps, now 3619 KBps
+>>>>>>: [0:01] to go, Remaining in Sec = 47, Hours = 0, Minutes = 1, Bytes Left = 175811629
+SlingShotUpdateProgressUI: 30 sec avg 3772 KBps, 3640 KBps new total, last total 3635 KBps, now 3637 KBps
+>>>>>>: [0:01] to go, Remaining in Sec = 42, Hours = 0, Minutes = 1, Bytes Left = 157305142
+SlingShotUpdateProgressUI: 30 sec avg 3635 KBps, 3601 KBps new total, last total 3610 KBps, now 3605 KBps
+>>>>>>: [0:01] to go, Remaining in Sec = 40, Hours = 0, Minutes = 1, Bytes Left = 148051898
+SlingShotUpdateProgressUI: 30 sec avg 3660 KBps, 3613 KBps new total, last total 3610 KBps, now 3611 KBps
+>>>>>>: [0:01] to go, Remaining in Sec = 33, Hours = 0, Minutes = 1, Bytes Left = 124918789
+SlingShotUpdateProgressUI: 30 sec avg 3606 KBps, 3603 KBps new total, last total 3610 KBps, now 3606 KBps
+>>>>>>: [0:01] to go, Remaining in Sec = 28, Hours = 0, Minutes = 1, Bytes Left = 106412302
+SlingShotUpdateProgressUI: 30 sec avg 3605 KBps, 3601 KBps new total, last total 3596 KBps, now 3598 KBps
+>>>>>>: [0:01] to go, Remaining in Sec = 25, Hours = 0, Minutes = 1, Bytes Left = 92532436
+SlingShotUpdateProgressUI: 30 sec avg 3605 KBps, 3616 KBps new total, last total 3614 KBps, now 3615 KBps
+>>>>>>: [0:01] to go, Remaining in Sec = 19, Hours = 0, Minutes = 1, Bytes Left = 74025949
+SlingShotUpdateProgressUI: 30 sec avg 3550 KBps, 3597 KBps new total, last total 3593 KBps, now 3595 KBps
+>>>>>>: [0:01] to go, Remaining in Sec = 15, Hours = 0, Minutes = 1, Bytes Left = 55519462
+SlingShotUpdateProgressUI: 30 sec avg 3654 KBps, 3612 KBps new total, last total 3608 KBps, now 3610 KBps
+>>>>>>: [0:01] to go, Remaining in Sec = 8, Hours = 0, Minutes = 1, Bytes Left = 32386353
+SlingShotUpdateProgressUI: 30 sec avg 3619 KBps, 3613 KBps new total, last total 3610 KBps, now 3611 KBps
+>>>>>>: [0:01] to go, Remaining in Sec = 3, Hours = 0, Minutes = 1, Bytes Left = 13879866
+SlingShot: Starting Local and Network Diags/Recovery Session at 07/19/2025  02:10.
+SlingShotL8LocalBootSetup: Didnt find a recovery partition for startup disk, startup disk may not be set, (Not Found)
+Memory test starting
+Memory test took 3663 ms
+Drive test starting
+Drive test took 1238 ms
+Wireless_AccessPointChosen(): secure network picking 1306
+NetworkFinishOSRSHostInfoLookup: Resolved OSRS Hostname [osrecovery.apple.com] to 17.42.252.38, Port 80
+GetStationAddressViaIpAgent: Client IP Address: 192.168.3.28
+GetStationAddressViaIpAgent: Client Subnet Mask: 255.255.255.0
+GetStationAddressViaIpAgent: Router IP Address: 192.168.3.1
+GetStationAddressViaIpAgent: DnsServer 0 Address: 192.168.3.1
+NetworkFinishOSRSHostInfoLookup: Resolved DNS Address on interface with address 192.168.3.28
+NetworkFinishOSRSHostInfoLookup: Got 1 Network Interfaces.
+NetworkFinishOSRSHostInfoLookup: Handle 0 was used for successful DNS resolution of OSRS.
+SlingShot: Got OSRS Info: Hostname osrecovery.apple.com, Host IP 17.42.252.38, Port: 80
+HttpFetchWorker: Initing Network, Host = 17.42.252.38, Port = 80...
+HttpGetMoreData: Non Zero status 8000000000000068 returned from Receive Response, time = 0ms.
+HttpGetMoreData: Connection Closed from the other side.
+SlingShotSetupAuthParams: Got MLB SN 'C021486016PDY4WA2'
+SlingShotGetRecoveryType: Error getting RecoveryType (Not Found),
+HttpFetchWorker: Initing Network, Host = 17.42.252.38, Port = 80...
+NetworkResolveDomainName: Resolved IP Address for 'oscdn.apple.com': 112.48.230.139
+HttpFetchWorker: Initing Network, Host = 112.48.230.139, Port = 80...
+NetworkResolveDomainName: Resolved IP Address for 'oscdn.apple.com': 112.48.230.139
+HttpFetchWorker: Initing Network, Host = 112.48.230.139, Port = 80...
+DetermineForwardDownloadProgress: Download Stalled! Offset = 111, Bytes = 0, Tick = 0
+SlingShotUpdateProgressUI: Recent download rate 0 dropped below 5 KBps, starting download stall timer.
+SlingShotUpdateProgressUI: 30 sec avg 0 KBps, 3 KBps new total, last total 0 KBps, now 1 KBps
+SlingShotUpdateProgressUI: Recent download rate 11 is above minimum 5 KBps, cancelling download stall timer.
+SlingShotUpdateProgressUI: 30 sec avg 58 KBps, 507 KBps new total, last total 498 KBps, now 502 KBps
+SlingShotUpdateProgressUI: 30 sec avg 109 KBps, 544 KBps new total, last total 533 KBps, now 538 KBps
+SlingShotUpdateProgressUI: 30 sec avg 145 KBps, 537 KBps new total, last total 538 KBps, now 537 KBps
+SlingShotUpdateProgressUI: 30 sec avg 172 KBps, 524 KBps new total, last total 520 KBps, now 522 KBps
+SlingShotUpdateProgressUI: 30 sec avg 199 KBps, 525 KBps new total, last total 525 KBps, now 525 KBps
